@@ -25,8 +25,7 @@ This **Tableau project** provides a detailed survival analysis of patients with 
 
 ## 📷 Screenshot
 
-> ![Heart Failure Dashboard](Dashboard%201.png)  
-*(Ensure this image is uploaded in your repository)*
+> ![](https://github.com/pratiik1516/Heart-Failure-Survival-Dashboard/blob/main/Dashboard%201.png)
 
 ---
 
@@ -67,13 +66,6 @@ This **Tableau project** provides a detailed survival analysis of patients with 
 
 ---
 
-## ✅ How to Use
-
-1. Download the `.twbx` file (`Heart Failure Survival.twbx`) from this repository.  
-2. Open it in [Tableau Desktop](https://www.tableau.com/products/desktop).  
-3. Explore the dashboard filters and hover for deeper insights.
-
----
 
 ## 🏁 Conclusion
 
@@ -81,9 +73,3 @@ This dashboard helps healthcare professionals and analysts to identify key clini
 
 ---
 
-> 💬 Contributions, feedback, and forks are welcome to enhance the project further!
-"""
-
-# Save it as a markdown file
-with open("README.md", "w") as f:
-    f.write(readme_content)
